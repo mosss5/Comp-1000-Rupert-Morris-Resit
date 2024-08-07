@@ -1,0 +1,9 @@
+# ninja log v6
+16	976	7446497702827347	TaskAGUI_autogen/timestamp	15e910fa6057052e
+16	976	7446497702827347	TaskAGUI_autogen/mocs_compilation.cpp	15e910fa6057052e
+16	976	7446497702827347	C:/Users/beebe/source/repos/TaskA/TaskAGUI/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TaskAGUI_autogen/timestamp	15e910fa6057052e
+16	976	7446497702827347	C:/Users/beebe/source/repos/TaskA/TaskAGUI/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TaskAGUI_autogen/mocs_compilation.cpp	15e910fa6057052e
+984	3266	7446497704099549	CMakeFiles/TaskAGUI.dir/TaskAGUI_autogen/mocs_compilation.cpp.obj	c22c6a6b28123592
+991	3278	7446497704165393	CMakeFiles/TaskAGUI.dir/main.cpp.obj	7abf6ef3f9daddf1
+998	3961	7446497704237992	CMakeFiles/TaskAGUI.dir/mainwindow.cpp.obj	6e9f7cce50432c47
+3962	4238	7446497733879608	TaskAGUI.exe	6339e01e50b4a65a
